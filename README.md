@@ -75,7 +75,7 @@ Additional Resources
    http://bluebuttonjs.com
 
  * HL7 Consolidated CDA Specification:
-   http://www.hl7.org/implement/standards/product_brief.cfm?product_id=258
+   http://www.hl7.org/implement/standards/product_brief.cfm?product_id=496
 
 
 [BlueButton.js]: http://bluebuttonjs.com
